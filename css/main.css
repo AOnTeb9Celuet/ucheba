@@ -1,0 +1,132 @@
+.top-page {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+.header {
+    width: 100%;
+    height: 100px
+}
+
+.logo { 
+    width: 45%;
+    float: left;
+
+}
+
+.logo p {
+    color: #3a3636;
+    font: 900 16pt Georgia;
+    margin: 29px 0 0 400px;
+
+}
+
+.menu ul {
+    color: #3a3636;;
+    position: relative;
+    float: right;
+    list-style: none;
+    padding-left: 0;
+    width: 50%;
+    margin: 20px auto auto 0;
+    font-weight: 600;
+}
+
+.menu li {
+    font: 11pt "gill sans", sans-serif;
+    position: relative;
+    padding: 7px;
+    float: left;
+    margin: 10px 10px 0;
+}
+
+.menu li:hover {
+    color: white;
+    background-color: #3a3636;;
+    background-size: 20px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.main-content p {
+    position: relative;
+    left: 200px;
+    float: left;
+    text-align: center;
+    width: 50%;
+    font: 900 30pt Georgia;
+    color: white;
+}
+
+.main-content img {
+    position: relative;
+    width: 230px;
+    height: 230px;
+    left: 100px;
+    bottom: 20px
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 20px
+}
+
+.radio {
+    position: relative;
+    left: 0;
+    right: 0;
+    width: 20px; height: 20px;
+}
+
+.down-page {
+    position: relative;
+    width: 100%;
+    margin-left: auto;
+}
+
+.img-1 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.dp-img {
+    width: 100px;
+    height: 100px;
+}
+
+.img-1 p {
+    text-align: center;
+    font: 11pt sans-serif;
+}
+
+#img-text {
+    font: 9pt "Gill sans";
+    color:#3a3636;
+}
+
+#img-1-1 {
+    display: block;
+    float: left;
+    margin-right: 50px;
+}
+
+#img-1-2 {
+    display: block;
+    float: left;
+
+}
+
+#img-1-3 {
+    display: block;
+    float: left;
+    margin-left: 50px;
+}
+.infa {
+    width: 700px;
+    margin: auto;
+}
